@@ -1,8 +1,9 @@
-# metaverse2024
+
 메타버스 개발자 경진대회 리포지토리
 
-PPT
-[ppt.pptx](https://github.com/user-attachments/files/18394559/ppt.pptx)
+[AITHENTTS_2차 발표.pdf](https://github.com/user-attachments/files/18398501/AITHENTTS_2.pdf)
+[2024년 메타버스 개발자 경진대회 발표자료_aitentts.pdf](https://github.com/user-attachments/files/18398546/2024._aitentts.pdf)
+
 
 보고서
 [2024년 메타버스 개발자 경진대회 개발결과보고서_AI THEN TTS(정재원).docx](https://github.com/user-attachments/files/18394567/2024._AI.THEN.TTS.docx)
